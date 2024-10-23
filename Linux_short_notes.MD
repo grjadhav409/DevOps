@@ -1,6 +1,6 @@
 ### Linux Cheat Sheet for DevOps
 
-Here’s a handy list of essential Linux commands and tools to streamline your DevOps tasks. From basic navigation to advanced network and security operations, these commands are crucial for managing infrastructure efficiently.
+
 
 ---
 
